@@ -204,6 +204,7 @@ color: var(--footer-white);
 }
 /*--button--*/
 .btn-portfolios:hover{
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: calc(26/16);
@@ -215,6 +216,7 @@ color: var(--footer-white);
 
 }
 .btn-portfolios{
+    font-family: inherit;
     font-weight: 500;
 font-size: 16px;
 line-height: calc(26/16);
